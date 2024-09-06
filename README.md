@@ -1,4 +1,5 @@
-Expense Tracker
+<br>Expense Tracker
+
 Description >>
 
 The Expense Tracker is a simple web application built using Flask and MySQL. It allows users to manage their expenses by tracking transactions. The project is designed to be run locally and is suitable for learning purposes.
