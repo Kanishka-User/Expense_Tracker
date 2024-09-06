@@ -47,13 +47,15 @@ The Expense Tracker is a simple web application built using Flask and MySQL. It 
 ```bash
 git clone https://github.com/Kanishka-User/Expense_Tracker.git
 cd expense-tracker
+```
 
-
-## Set Up a Virtual Environment
+## Clone the Repository
 ```bash
 python -m venv venv
 .\venv\Scripts\activate
+```
 
 ## Run the Application
 ```bash
 python app.py
+```
