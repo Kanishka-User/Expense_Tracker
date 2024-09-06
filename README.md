@@ -49,7 +49,7 @@ git clone https://github.com/Kanishka-User/Expense_Tracker.git
 cd expense-tracker
 ```
 
-## Clone the Repository
+## Set up the Virtual Environment
 ```bash
 python -m venv venv
 .\venv\Scripts\activate
